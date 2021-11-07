@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://upbeat-fermi-726fe8.netlify.app
 
 ## Contribution
 Made with ❤️ by Maya Booth
