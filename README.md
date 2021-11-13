@@ -8,8 +8,8 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
-https://lernantino.github.io/run-buddy/
+## DEMO
+https://silly-lalande-7927e8.netlify.app/
 
 ## Contribution
 Made with ❤️ by [your name]
